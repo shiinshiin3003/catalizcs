@@ -53,7 +53,4 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 
 **Osu! Stats**
 
-<p align="center">
-<img align="center" alt="osu!stats" src="http://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=Fireseethedie1&pp=1&countryrank&rankedscore&onlineindicator=undefined&xpbar&xpbarhex
-" />
-</p>
+![](http://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=Fireseethedie1&pp=1&countryrank&rankedscore&onlineindicator=undefined&xpbar&xpbarhex)
