@@ -16,7 +16,7 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
  - Sinh vào: **20/11/2003**
  - Có chiều cao: **1 mét 84(năm 2020)**
  - Tính cách có hơi **trầm lặng** và **dễ quạo**
- - Mình là **Founder, Author, Developer** của project [Mirai](https://github.com/catalizcs/mirai) và cùng làm việc với người anh em [Spermlord](https://github.com/spermlord)
+ - Mình là **Founder, Author, Developer** của project [Mirai](https://github.com/catalizcs/mirai) và cùng làm việc với người anh em [SpermLord](https://github.com/spermlord)
 
 **Các sở thích khác người của mình:**
 
