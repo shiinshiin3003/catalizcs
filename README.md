@@ -50,3 +50,10 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **Github Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=catalizcs&show_icons=true&hide_border=true)
+
+**Osu! Stats**
+
+<p align="center">
+<img align="center" alt="GIF" src="http://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=Fireseethedie1&pp=1&countryrank&rankedscore&onlineindicator=undefined&xpbar&xpbarhex
+" />
+</p>
