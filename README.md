@@ -40,6 +40,11 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **:zap: Các hoạt động gần đây:**
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com//roxtigger2003/mirai-beta/pull/3) in [roxtigger2003/mirai-beta](https://github.com//roxtigger2003/mirai-beta)
+2. 💪 Opened PR [#3](https://github.com//roxtigger2003/mirai-beta/pull/3) in [roxtigger2003/mirai-beta](https://github.com//roxtigger2003/mirai-beta)
+3. ❗️ Closed issue [#23](https://github.com//roxtigger2003/mirai/issues/23) in [roxtigger2003/mirai](https://github.com//roxtigger2003/mirai)
+4. 🗣 Commented on [#23](https://github.com//roxtigger2003/mirai/issues/23) in [roxtigger2003/mirai](https://github.com//roxtigger2003/mirai)
+5. 🗣 Commented on [#23](https://github.com//roxtigger2003/mirai/issues/23) in [roxtigger2003/mirai](https://github.com//roxtigger2003/mirai)
 <!--END_SECTION:activity-->
 
 **Github Stats**
