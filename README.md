@@ -45,7 +45,3 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **Github Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=catalizcs&show_icons=true&hide_border=true)
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/dq01aOE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-</p>
