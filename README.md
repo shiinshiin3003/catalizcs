@@ -51,12 +51,10 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 ##Game Stats
 ![](http://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=Fireseethedie1&pp=1&countryrank&rankedscore&onlineindicator=undefined&xpbar&xpbarhex)
 
-
 <p align="center">
 	<strong>NO NAME</strong>
 	<img align="center" alt="" src="./pics/5.png" />
 </p>
-
 
 <details>
 	<summary>**Old Team's Collab**</summary>
