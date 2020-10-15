@@ -48,7 +48,6 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 
 **Osu!**
 
-##Game Stats
 ![](http://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=Fireseethedie1&pp=1&countryrank&rankedscore&onlineindicator=undefined&xpbar&xpbarhex)
 
 <p align="center">
@@ -57,7 +56,7 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 </p>
 
 <details>
-	<summary>**Old Team's Collab**</summary>
+	<summary><strong>Old Team's Collab</strong></summary>
   <p align="center">
 	<strong>2/9/2018</strong>
 	<img align="center" alt="" src="./pics/1.png" />
