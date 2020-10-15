@@ -5,7 +5,7 @@
 Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc cho project **[Mirai](https://github.com/catalizcs/mirai)**
 
 <p align="center">
-<img align="center" alt="GIF" src="https://media1.tenor.com/images/d5da5398e5a193120690d0f0ca64d2ed/tenor.gif?itemid=8661798" />
+	<img align="center" alt="GIF" src="https://media1.tenor.com/images/d5da5398e5a193120690d0f0ca64d2ed/tenor.gif?itemid=8661798" />
 </p>
 
 **giới thiệu về bản thân:**
@@ -15,7 +15,7 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
  - Tất cả biệt danh của mình từng được đặt: **CatalizCS, Fireseethedie1, RFEChinoNguyen, ...**
  - Sinh vào: **20/11/2003**
  - Có chiều cao: **1 mét 84(năm 2020)**
- - Tính cách có hơi **trầm lặng** và **dễ quạo**
+ - Tính cách có hơi **trầm lặng** và **nhút nhát**, rất **khó** trong việc giao tiếp với mọi người
  - Mình là **Founder, Author, Developer** của project [Mirai](https://github.com/catalizcs/mirai) và cùng làm việc với người anh em [SpermLord](https://github.com/spermlord)
 
 **Các sở thích khác người của mình:**
@@ -40,17 +40,35 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **:zap: Các hoạt động gần đây:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/catalizcs/mirai/issues/27) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-2. 🗣 Commented on [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-3. 🗣 Commented on [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-4. 🗣 Commented on [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-5. ❗️ Opened issue [#331](https://github.com/DoctorMcKay/node-steam-user/issues/331) in [DoctorMcKay/node-steam-user](https://github.com/DoctorMcKay/node-steam-user)
 <!--END_SECTION:activity-->
 
 **Github Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=catalizcs&show_icons=true&hide_border=true)
 
-**Osu! Stats**
+**Osu!**
 
+##Game Stats
 ![](http://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=Fireseethedie1&pp=1&countryrank&rankedscore&onlineindicator=undefined&xpbar&xpbarhex)
+
+
+<p align="center">
+	<strong>NO NAME</strong>
+	<img align="center" alt="" src="./pics/5.png" />
+</p>
+
+
+<details>
+	<summary>**Old Team's Collab**</summary>
+  <p align="center">
+	<strong>2/9/2018</strong>
+	<img align="center" alt="" src="./pics/1.png" />
+	<strong>3/11/2018</strong>
+	<img align="center" alt="" src="./pics/2.png" />
+	<strong>9/3/2019</strong>
+	<img align="center" alt="" src="./pics/3.png" />
+	<strong>29/4/2019</strong>
+	<img align="center" alt="" src="./pics/4.png" />
+</p>
+
+</details>
