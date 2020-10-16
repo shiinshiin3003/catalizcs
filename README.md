@@ -41,10 +41,10 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com/catalizcs/mirai/issues/27) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-2. 🗣 Commented on [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+2. 🗣 Commented on [#27](https://github.com/catalizcs/mirai/issues/27) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
 3. 🗣 Commented on [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
 4. 🗣 Commented on [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-5. ❗️ Opened issue [#331](https://github.com/DoctorMcKay/node-steam-user/issues/331) in [DoctorMcKay/node-steam-user](https://github.com/DoctorMcKay/node-steam-user)
+5. 🗣 Commented on [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
 <!--END_SECTION:activity-->
 
 **Github Stats**
