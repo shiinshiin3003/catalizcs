@@ -40,10 +40,10 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **:zap: Các hoạt động gần đây:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-2. ❗️ Closed issue [#25](https://github.com/catalizcs/mirai/issues/25) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-3. ❗️ Closed issue [#28](https://github.com/catalizcs/mirai/issues/28) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-4. 🗣 Commented on [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+1. 🗣 Commented on [#29](https://github.com/catalizcs/mirai/issues/29) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+2. ❗️ Closed issue [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+3. ❗️ Closed issue [#25](https://github.com/catalizcs/mirai/issues/25) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+4. ❗️ Closed issue [#28](https://github.com/catalizcs/mirai/issues/28) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
 5. 🗣 Commented on [#26](https://github.com/catalizcs/mirai/issues/26) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
 <!--END_SECTION:activity-->
 
