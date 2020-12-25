@@ -41,10 +41,10 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#33](https://github.com/catalizcs/mirai/issues/33) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-2. 🗣 Commented on [#6](https://github.com/catalizcs/mirai-beta/issues/6) in [catalizcs/mirai-beta](https://github.com/catalizcs/mirai-beta)
-3. ❗️ Closed issue [#31](https://github.com/catalizcs/mirai/issues/31) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-4. 🗣 Commented on [#31](https://github.com/catalizcs/mirai/issues/31) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-5. 🗣 Commented on [#5](https://github.com/catalizcs/mirai-beta/issues/5) in [catalizcs/mirai-beta](https://github.com/catalizcs/mirai-beta)
+2. 🗣 Commented on [#33](https://github.com/catalizcs/mirai/issues/33) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+3. 🗣 Commented on [#6](https://github.com/catalizcs/mirai-beta/issues/6) in [catalizcs/mirai-beta](https://github.com/catalizcs/mirai-beta)
+4. ❗️ Closed issue [#31](https://github.com/catalizcs/mirai/issues/31) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+5. 🗣 Commented on [#31](https://github.com/catalizcs/mirai/issues/31) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
 <!--END_SECTION:activity-->
 
 **Github Stats**
