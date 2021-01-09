@@ -40,11 +40,11 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **:zap: Các hoạt động gần đây:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/catalizcs/mirai/issues/34) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-2. 🗣 Commented on [#33](https://github.com/catalizcs/mirai/issues/33) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+1. 🗣 Commented on [#36](https://github.com/catalizcs/mirai/issues/36) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+2. 🗣 Commented on [#34](https://github.com/catalizcs/mirai/issues/34) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
 3. 🗣 Commented on [#33](https://github.com/catalizcs/mirai/issues/33) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
 4. 🗣 Commented on [#33](https://github.com/catalizcs/mirai/issues/33) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-5. 🗣 Commented on [#6](https://github.com/catalizcs/mirai-beta/issues/6) in [catalizcs/mirai-beta](https://github.com/catalizcs/mirai-beta)
+5. 🗣 Commented on [#33](https://github.com/catalizcs/mirai/issues/33) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
 <!--END_SECTION:activity-->
 
 **Github Stats**
