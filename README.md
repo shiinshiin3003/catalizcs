@@ -40,11 +40,11 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **:zap: Các hoạt động gần đây:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/catalizcs/miraiv2/pull/29) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
-2. ❌ Closed PR [#40](https://github.com/catalizcs/mirai/pull/40) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-3. ❌ Closed PR [#39](https://github.com/catalizcs/mirai/pull/39) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-4. 🗣 Commented on [#39](https://github.com/catalizcs/mirai/issues/39) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
-5. ❗️ Closed issue [#37](https://github.com/catalizcs/mirai/issues/37) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+1. ❗️ Closed issue [#30](https://github.com/catalizcs/miraiv2/issues/30) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
+2. 🎉 Merged PR [#29](https://github.com/catalizcs/miraiv2/pull/29) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
+3. ❌ Closed PR [#40](https://github.com/catalizcs/mirai/pull/40) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+4. ❌ Closed PR [#39](https://github.com/catalizcs/mirai/pull/39) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
+5. 🗣 Commented on [#39](https://github.com/catalizcs/mirai/issues/39) in [catalizcs/mirai](https://github.com/catalizcs/mirai)
 <!--END_SECTION:activity-->
 
 **Github Stats**
