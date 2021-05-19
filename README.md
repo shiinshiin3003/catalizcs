@@ -40,11 +40,11 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **:zap: Các hoạt động gần đây:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/catalizcs/miraiv2/issues/42) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
-2. 🗣 Commented on [#42](https://github.com/catalizcs/miraiv2/issues/42) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
-3. 🎉 Merged PR [#41](https://github.com/catalizcs/miraiv2/pull/41) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
-4. 💪 Opened PR [#41](https://github.com/catalizcs/miraiv2/pull/41) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
-5. 🎉 Merged PR [#39](https://github.com/catalizcs/miraiv2/pull/39) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
+1. 🗣 Commented on [#43](https://github.com/catalizcs/miraiv2/issues/43) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
+2. 🗣 Commented on [#44](https://github.com/catalizcs/miraiv2/issues/44) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
+3. 🗣 Commented on [#42](https://github.com/catalizcs/miraiv2/issues/42) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
+4. 🗣 Commented on [#42](https://github.com/catalizcs/miraiv2/issues/42) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
+5. 🎉 Merged PR [#41](https://github.com/catalizcs/miraiv2/pull/41) in [catalizcs/miraiv2](https://github.com/catalizcs/miraiv2)
 <!--END_SECTION:activity-->
 
 **Github Stats**
