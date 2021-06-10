@@ -49,7 +49,7 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 
 **Github Stats**
 
-![](http://github-readme-streak-stats.herokuapp.com?user=catalizcs&theme=neon-palenight) ![](ttps://github-readme-stats.vercel.app/api?username=catalizcs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+![](http://github-readme-streak-stats.herokuapp.com?user=catalizcs&theme=neon-palenight) ![](https://github-readme-stats.vercel.app/api?username=catalizcs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 **Osu!**
 
