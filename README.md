@@ -49,9 +49,11 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 
 **Github Stats**
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=catalizcs&theme=neon-palenight" alt = "Github Streak" width="41%" >
+![](http://github-readme-streak-stats.herokuapp.com?user=catalizcs&theme=neon-palenight)![](ttps://github-readme-stats.vercel.app/api?username=catalizcs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
-<img src="https://github-readme-stats.vercel.app/api?username=catalizcs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" width="48%" align="right">
+**Osu!**
+
+![](http://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=tama-sama&pp=1&countryrank&rankedscore&onlineindicator=undefined&xpbar&xpbarhex)
 
 <p align="center">
 	<strong>NO NAME</strong>
