@@ -29,13 +29,13 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **Liên hệ:**
  
  - 👉🏻 Facebook: [Vũ Nguyễn Thành Tâm](https://fb.me/catalizcs)
- - 👉🏻 Youtube Channel: [DH CatalizCS](https://www.youtube.com/channel/UCugBpv0A_RdR61WedXukHZQ)
+ - 👉🏻 Youtube Channel: [CatalizCS](https://www.youtube.com/channel/UCugBpv0A_RdR61WedXukHZQ)
  - 👉🏻 Email: [catalizcs@gmail.com](mailto:catalizcs@gmail.com)
  - 👉🏻 Github: [CatalizCS](https://github.com/catalizcs)
  - 👉🏻 Website: [CatalizCS Website](https://catalizcs.hdesport.ga)
  - 👉🏻 Glitch Profile: [CatalizCS Profile](https://glitch.com/@catalizcs)
  - 👉🏻 Steam Profile: [CatalizCS Profile](https://steamcommunity.com/id/catalizcs)
- - 👉🏻 Osu! Profile: [Fireseethedie1 Profile](https://osu.ppy.sh/users/11161495)
+ - 👉🏻 Osu! Profile: [Tama-sama Profile](https://osu.ppy.sh/users/11161495)
 
 **:zap: Các hoạt động gần đây:**
 
@@ -51,10 +51,6 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=catalizcs&theme=neon-palenight" alt = "Github Streak" width="41%" >
 
 <img src="https://github-readme-stats.vercel.app/api?username=catalizcs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" width="48%" align="right">
-
-**Osu!**
-
-![](http://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=Fireseethedie1&pp=1&countryrank&rankedscore&onlineindicator=undefined&xpbar&xpbarhex)
 
 <p align="center">
 	<strong>NO NAME</strong>
