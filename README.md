@@ -41,10 +41,10 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/miraiPr0ject/miraiv2/issues/5) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
-2. ❌ Closed PR [#4](https://github.com/miraiPr0ject/miraiv2/pull/4) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
-3. 🎉 Merged PR [#3](https://github.com/miraiPr0ject/miraiv2/pull/3) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
-4. 🗣 Commented on [#2](https://github.com/miraiPr0ject/miraiv2/issues/2) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
-5. ❗️ Closed issue [#2](https://github.com/miraiPr0ject/miraiv2/issues/2) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
+2. 🗣 Commented on [#5](https://github.com/miraiPr0ject/miraiv2/issues/5) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
+3. ❌ Closed PR [#4](https://github.com/miraiPr0ject/miraiv2/pull/4) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
+4. 🎉 Merged PR [#3](https://github.com/miraiPr0ject/miraiv2/pull/3) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
+5. 🗣 Commented on [#2](https://github.com/miraiPr0ject/miraiv2/issues/2) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
 <!--END_SECTION:activity-->
 
 **Github Stats**
