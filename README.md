@@ -40,10 +40,10 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **:zap: Các hoạt động gần đây:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/miraiPr0ject/miraiv2/issues/6) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
-2. 🗣 Commented on [#6](https://github.com/miraiPr0ject/miraiv2/issues/6) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
-3. ❗️ Closed issue [#5](https://github.com/miraiPr0ject/miraiv2/issues/5) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
-4. 🗣 Commented on [#5](https://github.com/miraiPr0ject/miraiv2/issues/5) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
+1. 💪 Opened PR [#1](https://github.com/miraiPr0ject/fca-unofficial/pull/1) in [miraiPr0ject/fca-unofficial](https://github.com/miraiPr0ject/fca-unofficial)
+2. ❗️ Closed issue [#6](https://github.com/miraiPr0ject/miraiv2/issues/6) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
+3. 🗣 Commented on [#6](https://github.com/miraiPr0ject/miraiv2/issues/6) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
+4. ❗️ Closed issue [#5](https://github.com/miraiPr0ject/miraiv2/issues/5) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
 5. 🗣 Commented on [#5](https://github.com/miraiPr0ject/miraiv2/issues/5) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
 <!--END_SECTION:activity-->
 
