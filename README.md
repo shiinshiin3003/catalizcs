@@ -40,10 +40,10 @@ Hiện tại mình là một học sinh **THPT👨🏼‍💼** và làm việc 
 **:zap: Các hoạt động gần đây:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/shiinshiin3003/miraiv-2/issues/2) in [shiinshiin3003/miraiv-2](https://github.com/shiinshiin3003/miraiv-2)
-2. ❗️ Closed issue [#1](https://github.com/shiinshiin3003/miraiv-2/issues/1) in [shiinshiin3003/miraiv-2](https://github.com/shiinshiin3003/miraiv-2)
-3. ❗️ Opened issue [#1](https://github.com/shiinshiin3003/miraiv-2/issues/1) in [shiinshiin3003/miraiv-2](https://github.com/shiinshiin3003/miraiv-2)
-4. 🗣 Commented on [#8](https://github.com/miraiPr0ject/miraiv2/issues/8) in [miraiPr0ject/miraiv2](https://github.com/miraiPr0ject/miraiv2)
+1. ❗️ Closed issue [#2](https://github.com/shiinshiin3003/miraiv-2/issues/2) in [shiinshiin3003/miraiv-2](https://github.com/shiinshiin3003/miraiv-2)
+2. ❗️ Opened issue [#2](https://github.com/shiinshiin3003/miraiv-2/issues/2) in [shiinshiin3003/miraiv-2](https://github.com/shiinshiin3003/miraiv-2)
+3. ❗️ Closed issue [#1](https://github.com/shiinshiin3003/miraiv-2/issues/1) in [shiinshiin3003/miraiv-2](https://github.com/shiinshiin3003/miraiv-2)
+4. ❗️ Opened issue [#1](https://github.com/shiinshiin3003/miraiv-2/issues/1) in [shiinshiin3003/miraiv-2](https://github.com/shiinshiin3003/miraiv-2)
 5. 💪 Opened PR [#1](https://github.com/miraiPr0ject/fca-unofficial/pull/1) in [miraiPr0ject/fca-unofficial](https://github.com/miraiPr0ject/fca-unofficial)
 <!--END_SECTION:activity-->
 
